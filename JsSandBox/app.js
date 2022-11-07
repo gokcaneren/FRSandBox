@@ -1,4 +1,4 @@
-console.log('HHelllloooooooooooo12312');
+/*console.log('HHelllloooooooooooo12312');
 
 console.log(123);
 
@@ -23,3 +23,39 @@ console.time('Start!');
     console.log(6);
     console.log(7);
 console.timeEnd('Finish!');
+*/
+
+var a;
+a='Gokky';
+
+console.log(a);
+
+a='sss';
+
+console.log(a)
+
+let num;
+
+console.log(num);
+num=5;
+
+console.log(num);
+
+const pi=3.14;
+
+console.log(pi);
+
+const countries=['Turkey', 'Italy', 'China']
+
+countries.push('Japan')
+
+console.log(countries);
+
+const lib={
+    name : 'Sasa',
+    age : 23
+};
+
+lib.age=33;
+
+console.log(lib);
